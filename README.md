@@ -18,11 +18,5 @@
     
    </div>
     
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "[https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/](https://www.linkedin.com/in/anderson-dos-santos-5a5154226/)">
-      <img width="25" src="[linkedin.svg](https://icons8.com.br/icon/13930/linkedin)https://icons8.com.br/icon/13930/linkedin">
-    </a>
-    
 </div>
   
