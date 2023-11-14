@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Tecnologias mais usadas!</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" 
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,11 +24,18 @@
     <a href = "mailto: work.luigi.fonseca@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "[https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/](https://www.linkedin.com/in/anderson-dos-santos-5a5154226/)">
-      <img width="25" src="linkedin.svg">
+    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+      <img width="25" src="[linkedin.svg](https://icons8.com.br/icon/13930/linkedin)">
     </a>
+    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+      <img width="35" src="youtube.svg">
+    </a>
+    <a href = "https://www.instagram.com/devparadev/">
+      <img width="25" src="instagram.png">
+    </a>
+</div
    
     
 </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/AndersonSantoos/AndersonSantoos/blob/output/github-contribution-grid-snake.svg)
